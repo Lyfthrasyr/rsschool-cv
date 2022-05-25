@@ -6,7 +6,7 @@
 
 ### Contacts:
 
-#### Discord: Lyfthrasyrgit
+#### Discord: Lyfthrasyr
 
 #### Telegram: @Lyfthrasyr
 
@@ -41,7 +41,7 @@ function digitize(n) {
 
 2014 - Ivanovo State Medical Academy (Medical Degree);
 
-2016 - Ivanovo State Medical Academy (Otolarnyngology Residency);
+2016 - Ivanovo State Medical Academy (Otolaryngology Residency);
 
 2022 - FreeCodeCamp Responsive Web Design Course;
 
