@@ -2,6 +2,8 @@
 
 ## Dmitry Vorobyov
 
+![my photo] (/images/cv-photo.jpg "my photo")
+пше
 ### Contacts:
 
 #### Discord: Lyfthrasyr
