@@ -2,11 +2,11 @@
 
 ## Dmitry Vorobyov
 
-![my photo] (/images/cv-photo.jpg "my photo")
-пше
+![my photo](/images/cv-photo.jpg "my photo")
+
 ### Contacts:
 
-#### Discord: Lyfthrasyr
+#### Discord: Lyfthrasyrgit
 
 #### Telegram: @Lyfthrasyr
 
