@@ -2,3 +2,5 @@
 CV for RS School Course
 
 https://github.com/Lyfthrasyr/rsschool-cv/blob/gh-pages/cv.md
+
+https://lyfthrasyr.github.io/rsschool-cv/
