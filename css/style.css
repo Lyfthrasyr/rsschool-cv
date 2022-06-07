@@ -119,6 +119,13 @@ code span {
   display: flex;
   justify-content: space-between;
 }
+@media (max-width: 500px) {
+  .header__list {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+}
 .header__link {
   position: relative;
   font-weight: 700;
@@ -174,12 +181,22 @@ code span {
   color: rgb(177, 171, 171);
   margin-bottom: 5rem;
 }
+@media (max-width: 1000px) {
+  .general h2 {
+    text-align: center;
+  }
+}
 
 .information {
   width: 70%;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+}
+@media (max-width: 500px) {
+  .information {
+    width: 100%;
+  }
 }
 .information__text {
   font-size: 1.2rem;
@@ -240,6 +257,16 @@ code span {
 .info-item h2 {
   text-align: center;
   margin-top: 0.2rem;
+}
+@media (max-width: 1000px) {
+  .info-item {
+    width: 80%;
+  }
+}
+@media (max-width: 500px) {
+  .info-item {
+    width: 85%;
+  }
 }
 
 .text_container {
