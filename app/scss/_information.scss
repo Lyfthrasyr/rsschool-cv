@@ -1,0 +1,102 @@
+
+
+.information{
+	width: 70%;
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+
+	&__text{
+		font-size: 1.2rem;
+		padding-left: 1rem;
+		padding-right: 1rem;
+		line-height: 1.5;
+
+		span{
+			color:rgb(38, 142, 150);
+		}
+
+		
+	}
+
+
+	&__contacts{
+		height: 15rem;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+		gap: 0.25rem;
+		text-align: center;
+
+		
+
+	}
+
+	&__courses{
+		text-align: center;
+	}
+	
+	&__projects{
+		text-align: center;
+		a{
+			color:rgb(38, 142, 150);
+		}
+
+	}
+
+	&__list{
+		display: flex;
+	}
+
+	&__education{
+		text-align: center;
+	}
+
+	&__langs{
+		text-align: center;
+	}
+
+	h2{
+		font-size: 1.7rem;
+		margin-bottom: 1rem;
+		padding-top: 0.5rem;
+		
+	}
+
+	h3{
+		font-size: 1.2rem;
+		text-align: left;
+		margin-left: 25%;
+
+		span {
+			color: rgb(38, 142, 150);
+		}
+
+	}
+
+
+
+}
+
+.info-item {
+
+	h2{
+		text-align: center;
+		margin-top: 0.2rem;
+	}
+
+	width: 40%;
+	min-height: 200px;
+	border: 2px solid white;
+	border-radius: 1.5rem;
+	margin-bottom: 2rem;
+
+}
+
+.text_container{
+	display: flex;
+	justify-content: space-evenly;
+	
+	color:rgb(38, 142, 150);
+}

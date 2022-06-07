@@ -1,0 +1,33 @@
+.general {
+
+	&__wrapper{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	&__image{
+		margin-bottom: 3rem;
+		img{
+			max-width: 100%;
+			width: 60%;
+			margin: 0 auto;
+			border: 3px solid white;
+			border-radius: 50%;
+
+			
+			}
+		}
+
+	h1{
+		font-size: 3rem;
+		letter-spacing: 0.2rem;
+		margin-bottom: 1rem;
+	}
+
+	h2{
+		font-size: 1.5rem;
+		color: rgb(177, 171, 171);
+		margin-bottom: 5rem;
+	}
+	}
