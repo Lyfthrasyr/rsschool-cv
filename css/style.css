@@ -215,6 +215,9 @@ code span {
   gap: 0.25rem;
   text-align: center;
 }
+.information__contacts a {
+  display: inline;
+}
 .information__courses {
   text-align: center;
 }
